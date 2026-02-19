@@ -1,8 +1,10 @@
 # Beyond-the-Numbers-Unlocking-Sales-Performance-in-Nigeria
-A Data-Driven Analysis of Retail Trends in Lagos, Abuja, and Kano
+A Data-Driven Analysis of Retail Trends in Lagos, Abuja, and Kano.
+
 **📖 Project Overview**
 This project presents a detailed analysis of sales transactions recorded between January 2, 2024, and March 1, 2024. The dataset covers 100 unique transactions across four major Nigerian regions: Lagos, Abuja, Kano, and Ibadan.
 The analysis focuses on two primary product categories: Technology and Grocery, managed by a sales team of five representatives. The goal was to move beyond basic reporting to uncover actionable insights regarding regional demand, high-value clients, and sales efficiency.
+
 **🎯 Objectives**
 The primary objectives of this analysis were to:
 •	Evaluate Revenue & Volume: Assess total revenue generation and sales volume across different categories.
@@ -10,6 +12,7 @@ The primary objectives of this analysis were to:
 •	Performance Tracking: Assess individual sales representative performance to identify top talent.
 •	Trend Identification: Analyze product demand trends (Tech vs. Grocery).
 •	Strategic Recommendations: Provide data-driven recommendations to optimize future sales strategies.
+
 **🛠️ Technical Methodology**
 To derive these insights, the analysis was conducted entirely in Microsoft Excel, focusing on data integrity, dynamic aggregation, and advanced formulas.
 1. Data Transformation & Feature Engineering
@@ -24,6 +27,7 @@ Avoided manual filtering in favour of dynamic functions for scalability:
 Ensured transactional accuracy using lookup and reference techniques:
 •	Lookup Functions (XLOOKUP, INDEX & MATCH): Retrieved specific transactional data (e.g., finding specific sales amounts by OrderID) and validated product categories.
 •	Data Validation: Checked for duplicates using OrderID as the primary key to ensure unique revenue reporting.
+
 **🔍 Key Findings** 
 💰 Revenue & Sales Snapshot
 Metric	Value
@@ -31,11 +35,13 @@ Lagos Total Sales	₦4,326,860
 Tech Category Revenue	₦9,889,668
 Top Rep Revenue (Samuel)	₦5,564,991
 Avg. Order Value (>₦100k)	₦218,327
+
 **📈 Segment Insights**
 •	Top Performing Region: Lagos (Highest Revenue)
 •	Top Category: Technology (Revenue Driver) vs. Grocery (Volume Driver)
 •	Top Sales Rep: Samuel (Revenue) & Grace (Efficiency/AOV)
 •	First Product Sold in 2024: Mouse
+
 **📉 Detailed Analysis**
 1. Category Performance: Tech vs. Grocery
 The product portfolio is distinctively split:
@@ -49,6 +55,7 @@ The product portfolio is distinctively split:
 •	Samuel: The top revenue generator (₦5.5M total revenue).
 •	Grace: Highest efficiency, with an average sale per transaction of ₦146,013, indicating success in closing bulk or premium deals.
 •	Aisha: High activity level (20 orders handled), driving volume but with a lower average order value.
+
 **🚀 Strategic Recommendations**
 Based on the data, the following strategies are recommended for Q2 2024:
 1.	Inventory Optimisation:
